@@ -1,11 +1,8 @@
 package org.ys.lucene;
 
 import java.io.File;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.core.SimpleAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field.Store;
 import org.apache.lucene.document.TextField;
